@@ -12,4 +12,4 @@ for learning and portfolio.
 - Monitoring: Prometheus + Grafana
 
 ## Status
-🔧 In progress — starting 2024
+🔧 In progress — starting 2026
